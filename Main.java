@@ -260,7 +260,7 @@ public class Main extends JFrame {
         Main main = new Main();
         main.setTitle("New Files Deleter");
         main.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        main.setIconImage(new ImageIcon("D:/23/FileDeleter.ico").getImage());
+        main.setIconImage(new ImageIcon("path/to/your/icon").getImage());
         main.setVisible(true);
     }
 }
