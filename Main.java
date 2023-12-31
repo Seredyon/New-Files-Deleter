@@ -186,7 +186,7 @@ public class Main extends JFrame {
             UIManager.put("text", new Color(200, 200, 200));
 
             // Set button properties
-            UIManager.put("Button.background", new Color(129, 129, 129));
+            UIManager.put("Button.background", new Color(0, 139, 158));
             UIManager.put("Button.foreground", Color.BLACK); // Set text color to black
             UIManager.put("Button.border", BorderFactory.createLineBorder(new Color(30, 30, 30), 1));
 
@@ -260,7 +260,7 @@ public class Main extends JFrame {
         Main main = new Main();
         main.setTitle("New Files Deleter");
         main.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        main.setIconImage(new ImageIcon("path/to/your/icon.png").getImage());
+        main.setIconImage(new ImageIcon("D:/23/FileDeleter.ico").getImage());
         main.setVisible(true);
     }
 }
