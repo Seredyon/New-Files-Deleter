@@ -44,7 +44,6 @@ java Main
 
 ## Notes
 
-- This application uses a timer to display error and success messages for a short duration.
 - Make sure to replace `"path/to/your/icon"` with the actual path to your application icon in the `createAndShowGUI()` method.
 
 ---
