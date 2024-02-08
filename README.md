@@ -40,7 +40,7 @@ java Main
 
 ## Screenshots
 
-*Include screenshots of the application in action (optional).*
+*Later*
 
 ## Notes
 
